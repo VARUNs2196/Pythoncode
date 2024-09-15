@@ -9,4 +9,4 @@ def outer_function(x):
         print(x)
 
 outer_function(x)
-print(x)
+print("\n",x)
